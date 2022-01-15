@@ -1,0 +1,18 @@
+Summary:
+-Ne rabotaet knopka
+Project:
+-Sayt.com.ua
+Component:
+-Head
+Version:
+-0.1.7b
+Severity:
+-Minor
+Priority:
+-Low
+Status:
+-Active
+Author:
+Ilya P.
+Assigned To: 
+-Egor L.
